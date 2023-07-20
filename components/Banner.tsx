@@ -20,7 +20,7 @@ export const Banner = () => {
           Software Engineering Student
         </h3>
         <p className="text-base tracking-wide text-center md:text-left ">
-          I love exploring and creating 🚀 I'm a lifelong learner and I love the
+          I love exploring and creating 🚀 I'm a lifelong student and I love the
           Vietnamese food so much 🍜.
         </p>
       </div>

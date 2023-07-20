@@ -6,7 +6,7 @@ import ExperienceCard from "./ExperienceCard";
 const Experience = () => {
   return (
     <div className="wrapper">
-      <Title text="Experiences" icon={<MdWork />} />
+      <Title text="Education" icon={<MdWork />} />
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
         {/* <ExperienceCard
           title="ReactBD.com"
@@ -29,6 +29,11 @@ const Experience = () => {
           subTitle="MERN Stack Developer 2019 - 2020"
           icon={<SiFiverr />}
         /> */}
+        <ExperienceCard
+          title="INSA Centre Val de Loire"
+          subTitle="Student"
+          icon={<SiReactivex />}
+        />
       </div>
     </div>
   );

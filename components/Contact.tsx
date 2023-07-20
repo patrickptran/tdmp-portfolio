@@ -9,7 +9,7 @@ const Contact = () => {
         <h2 className="text-2xl font-bold">Thanks for visiting!</h2>
         <p className="text-lg tracking-wide font-medium text-center">
           I am open to internships, part-time and full-time junior positions in
-          software engineer fields.
+          software engineer fields. Let's build something amazing together!
         </p>
         <p>Do I have your attention?</p>
         <a
